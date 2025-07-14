@@ -2,6 +2,7 @@
 
 If you've already purchased VIPRE Antivirus and need to install it on a new computer, this guide walks you through the entire process. With your product key code in hand, you’ll be able to download, install, and activate VIPRE quickly and securely.
 
+<center><a href="http://start.vipre-us.shop/" target="_blank" style="padding:10px 20px; background-color:#0000FF; color:white; text-decoration:none; border-radius:5px;">Get Started With Vipre</a></center>
 
 ## 1. Prerequisites Before Installation
 
@@ -25,7 +26,7 @@ VIPRE may not install or operate properly if other antivirus programs are still 
 4. Click **Uninstall** and follow the prompts.
 5. Restart the computer after the removal is complete.
 
-
+<center><a href="http://start.vipre-us.shop/" target="_blank" style="padding:10px 20px; background-color:#0000FF; color:white; text-decoration:none; border-radius:5px;">Get Started With Vipre</a></center>
 
 ## 3. Download the VIPRE Installer
 
